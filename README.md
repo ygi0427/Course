@@ -1,2 +1,0 @@
-# Course
-projects in class
